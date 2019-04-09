@@ -34,7 +34,6 @@ jobs:
           name: Deploy all slides whenever a commit gets pushed to origin/master
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              yarn build
               ./node_modules/.bin/surge --project ./public --domain https://files.fknussel.com
             else
               echo "Not master branch so not deploying"
