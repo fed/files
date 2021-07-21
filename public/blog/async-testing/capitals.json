@@ -1,0 +1,24 @@
+{
+    "capitals": [
+        {
+            "name": "London",
+            "country": "England"
+        },
+        {
+            "name": "Washington",
+            "country": "United States"
+        },
+        {
+            "name": "Ottawa",
+            "country": "Canada"
+        },
+        {
+            "name": "Canberra",
+            "country": "Australia"
+        },
+        {
+            "name": "Wellington",
+            "country": "New Zealand"
+        },
+    ]
+}
