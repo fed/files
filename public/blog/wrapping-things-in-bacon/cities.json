@@ -1,0 +1,10 @@
+[
+  { "city": "Sydney", "state": "NSW" },
+  { "city": "Canberra", "state": "ACT" },
+  { "city": "Melbourne", "state": "VIC" },
+  { "city": "Brisbane", "state": "QLD" },
+  { "city": "Adelaide", "state": "SA" },
+  { "city": "Hobart", "state": "TAS" },
+  { "city": "Darwin", "state": "NT" },
+  { "city": "Perth", "state": "WA" }
+]
